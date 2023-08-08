@@ -9,3 +9,10 @@ def rps(p1, p2):
      
 a =  rps("paper","scissor")
 print(a)    
+    
+
+
+
+
+
+
