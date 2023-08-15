@@ -73,4 +73,4 @@ def snail(n,m):
             
     return a
     
-print(snail(0,0))
+print(snail(10,8))
